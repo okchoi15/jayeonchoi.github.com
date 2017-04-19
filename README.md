@@ -7,7 +7,7 @@ oknature15@naver.com<br>010-8907-xxxx
 
 
 
-**EDUCATION**<br>
+#### **EDUCATION**<br>
 2009.03 평촌고등학교 입학<br>
 2012.02 평촌고등학교 졸업<br>
 2013.03 성공회대학교 소프트웨어공학과 입학<br>
@@ -15,7 +15,7 @@ oknature15@naver.com<br>010-8907-xxxx
 
 
 
-**SKILLS**<br>
+#### **SKILLS**<br>
 HTML<br>
 CSS<br>
 JSP<br>
@@ -24,21 +24,21 @@ JAVA<br>
 
 
 
-**CERTICIFATE**<br>
+#### **CERTICIFATE**<br>
 정보처리기사<br>
 English - TOEIC 785 (~2017.08.09)<br>
 Chinese - HSK 5급 239/300 (~2019.02.12)<br>
 
 
 
-**AWARDS**<br>
+#### **AWARDS**<br>
 2016.10.24  교내 IT경진대회 장려상 - 헬스몰<br>
 2016.11.10  농림축산식품부주관 정부 3.0 공공데이터활용 경진대회(서비스개발부문) 우수상 - 나만의 수의사<br>
 2016.11.24  교내 중국어스피치대회 장려상<br>
  
  
  
-**EXPERIENCE**<br>
+#### **EXPERIENCE**<br>
  
  
  <div id="timeline" class="timeline-container">
@@ -140,10 +140,10 @@ Chinese - HSK 5급 239/300 (~2019.02.12)<br>
                         </dd>
 		</dl>
 
-**HOBBY**<br>
+#### **HOBBY**<br>
 Pilates, Violin play, watching movies
 
 
 
-**Life Motto**<br>
+#### **Life Motto**<br>
 Stay hungry, Stay foolish
