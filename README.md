@@ -128,7 +128,8 @@ Chinese - HSK 5급 239/300 (~2019.02.12)<br>
 				WEB: Spring myBatis, Spting boot<br>
 				client: html, jQuery mobile, css<br>
 				Server: AWS EC2 서비스 이용 Linux서버 배포<br>
-				기타: 푸쉬알림 - Google Cloud Messaging<br>지도 - 다음지도 api
+				기타: 푸쉬알림 - Google Cloud Messaging<br>지도 - 다음지도 api<br>
+				URL: https://play.google.com/store/apps/details?id=com.aceIT.healthmal
 				</p>
                         </dd>
 			<dt class="timeline-event" id="event08"><a>중국어 스피치대회</a></dt>
