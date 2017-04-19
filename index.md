@@ -146,7 +146,7 @@ Chinese - HSK 5급 239/300 (~2019.02.12)<br>
                         </dd>
 		</dl>
 		</div>
-</div>
+
 
 #### **HOBBY**<br>
 Pilates, Violin play, watching movies
