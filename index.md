@@ -69,18 +69,15 @@ Chinese - HSK 5급 239/300 (~2019.02.12)<br /></p>
 			<dt class="timeline-event" id="event02"><a>JA-KOREA Microsoft Touth Spark Live</a></dt>
 			<dd class="timeline-event-content" id="event02EX">
 				<p>2014.03.23 ~ 24<br />
-                                한국 Microsoft사에서 주최한 여대생 대상 IT전문가 커리어/진로 캠프로써, <br />
-                                IT산업계에 종사하는 여성 임직원, 창업가, 멘토들을 만나보면서 <br />
-                                여성리더이자 인생 선배들과의 대화를 나누어 볼 수 있는 프로그램<br />
+                                여대생 대상 IT전문가 커리어/진로 캠프 <br />
+                                IT산업계에 종사하는 여성 임직원, 창업가, 멘토들을 만나 대화를 나누어 볼 수 있는 프로그램<br />
                                 주최: 한국 마이크로소프트</p>
 			</dd>
 			<dt class="timeline-event" id="event03"><a>성 베드로학교 사회봉사</a></dt>
 			<dd class="timeline-event-content" id="event03EX">
 				<p>2014.04.04 ~ 2014.06.27<br />
 				정신지체 장애인들을 위한 종합 교육기관인 성 베드로 학교에서 직업반 수업 보조<br />
-				음식점, 부품조립과 같은 상황의 실습 수업에서 학생들이 안전하게 수행할 수 있도록 도움을 줌<br />
-				몸과 마음을 자유롭게 가누지 못하는 친구들이었지만 <br />
-				상대를 향한 마음만큼은 누구보다 따뜻해서 오히려 애정을 많이 받았었던 시간 </p>
+				음식점, 부품조립과 같은 상황의 실습 수업에서 학생들이 안전하게 수행할 수 있도록 도움<br /> </p>
 			</dd>
 		</dl>
 	</div>
