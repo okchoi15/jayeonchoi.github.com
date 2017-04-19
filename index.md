@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Minimal by Steve Smith</title>
+    <title>Welcome to Choi Ja Yeon Propile</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
@@ -22,7 +22,7 @@
 <section>
 
       
-<!--<h2 id="welcome-to-choi-ja-yeons-propile">Welcome to Choi Ja Yeon’s Propile</h2>-->
+<h2 id="welcome-to-choi-ja-yeons-propile">Introduce Myself</h2>
 
 <h4 id="education"><strong>EDUCATION</strong><br /></h4>
 <p>2009.03 평촌고등학교 입학<br />
