@@ -1,19 +1,11 @@
-<link rel="stylesheet" href="css/timeliner.css" type="text/css" media="screen">
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script type="text/javascript" src="js/timeliner.min.js"></script>
-
-<script>
-        $(document).ready(function() {
-                $.timeliner({});
-        });
-</script>
 
 ## Welcome to Choi Ja Yeon's Propile
 
-최 자 연 (Choi, Ja-Yeon, 崔自然)<br>
-1993.05.15 
-oknature15@naver.com, 010-8907-
+### 최 자 연 (Choi, Ja-Yeon, 崔自然)<br>
+1993.05.15 <br>
+oknature15@naver.com<br>010-8907-xxxx
+
 
 
 **EDUCATION**<br>
