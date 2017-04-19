@@ -13,17 +13,14 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1>Welcome to Choi Ja Yeon’s Propile</h1>
-        <p>최 자 연 (Choi, Ja-yeon / 崔自然)<br>1993.05.15<br>oknature15@naver.com<br></p>
-</header>
+    
 
 <section>
 
-      
-<h2 id="welcome-to-choi-ja-yeons-propile">Introduce Myself</h2>
 
+<h1>Welcome to Choi Ja Yeon’s Propile</h1>
+        <p>최 자 연 (Choi, Ja-yeon / 崔自然)<br>1993.05.15<br>oknature15@naver.com<br></p>
+	
 <h4 id="education"><strong>EDUCATION</strong><br /></h4>
 <p>2009.03 평촌고등학교 입학<br />
 2012.02 평촌고등학교 졸업<br />
@@ -162,16 +159,6 @@ Chinese - HSK 5급 239/300 (~2019.02.12)<br /></p>
 
 
       </section>
-      <footer>
-        
-        <p>This project is maintained by <a href="https://github.com/okchoi15">okchoi15</a></p>
-        
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="/jayeonchoi.github.com/assets/js/scale.fix.js"></script>
-
-
   
   </body>
 </html>
