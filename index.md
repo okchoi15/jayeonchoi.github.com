@@ -3,9 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>jayeonchoi.github.com by okchoi15</title>
+    <title>Minimal by Steve Smith</title>
 
-    <link rel="stylesheet" href="/jayeonchoi.github.com/assets/css/style.css?v=14de208c719b4b7c9f8eac9af551586e651fd559">
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
     <meta name="viewport" content="width=device-width">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -16,16 +17,9 @@
       <header>
         <h1>Welcome to Choi Ja Yeon’s Propile</h1>
         <p>최 자 연 (Choi, Ja-yeon / 崔自然)<br>1993.05.15<br>oknature15@naver.com<br></p>
+</header>
 
-        
-          <p class="view"></p>
-        
-
-        
-
-        
-      </header>
-      <section>
+<section>
 
       
 <!--<h2 id="welcome-to-choi-ja-yeons-propile">Welcome to Choi Ja Yeon’s Propile</h2>-->
