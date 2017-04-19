@@ -145,6 +145,8 @@ Chinese - HSK 5급 239/300 (~2019.02.12)<br>
 				주관: 성공회대학교 중어중국학과</p>
                         </dd>
 		</dl>
+		</div>
+</div>
 
 #### **HOBBY**<br>
 Pilates, Violin play, watching movies
