@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    
     <title>Welcome to Choi Ja Yeon Propile</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
@@ -28,10 +29,12 @@
 2017.08 성공회대학교 소프트웨어공학과 졸업예정(/4.5)<br /></p>
 
 <h4 id="skills"><strong>SKILLS</strong><br /></h4>
+<p>
 Language: JAVA, C<br>
 DB: mySQL, Oracle, msSQL<br>
 WEB: JSP, Spring myBatis, Spting boot<br>
 Client: html, jQuery mobile, css<br>
+</p>
 
 <h4 id="certicifate"><strong>CERTICIFATE</strong><br /></h4>
 <p>정보처리기사<br />
